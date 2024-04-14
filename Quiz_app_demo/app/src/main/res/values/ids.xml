@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="quizTitleList" type="id" />
+    <item name="constraintLayout0" type="id" />
+    <item name="quizImageList" type="id" />
+    <item name="constraintLayout" type="id" />
+</resources>
